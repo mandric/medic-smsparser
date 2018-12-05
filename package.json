@@ -11,7 +11,7 @@
     "sinon": "^2.1.0"
   },
   "scripts": {
-    "test": "./node_modules/.bin/nodeunit tests/unit"
+    "test": "nodeunit tests/unit"
   },
   "keywords": [],
   "author": "",
